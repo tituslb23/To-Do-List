@@ -19,4 +19,4 @@ To-do list using PHP with all the CRUD functionalities.
 
 ## Team Members
   1. Titus Varghese
-  2. Aditya Gaurav
+  2. Aditya Gaurav: https://github.com/adityagaurav28
