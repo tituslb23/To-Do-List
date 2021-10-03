@@ -6,10 +6,10 @@ To-do list using PHP with all the CRUD functionalities.
   2. Start the Apache and MySQL server in XAMPP Server.
   3. Create a Database with name "note".
   4. In the note Database, create a table with name "notes" with following columns:
-      a. Name: 'sno', Type: int(11), Extra: Auto Increment
-      b. Name: 'title', Type: varchar(50)
-      c. Name: 'description', Type: text
-      d. Name: 'tstamp', Type: datetime, default: current_timestamp()
+      1. Name: 'sno', Type: int(11), Extra: Auto Increment
+      2. Name: 'title', Type: varchar(50)
+      3. Name: 'description', Type: text
+      4. Name: 'tstamp', Type: datetime, default: current_timestamp()
   5. Now open 'CRUD.php'.
  
 ## Website Sample
