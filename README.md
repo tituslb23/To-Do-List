@@ -16,3 +16,7 @@ To-do list using PHP with all the CRUD functionalities.
 ![Home](https://user-images.githubusercontent.com/65227852/135764687-09aae50e-1a99-4054-844c-a3f0c1761b40.PNG)
 ![Edit](https://user-images.githubusercontent.com/65227852/135764694-3f231c60-35bf-4c69-92a3-7bd498b7e41e.PNG)
 ![Delete](https://user-images.githubusercontent.com/65227852/135764699-167c35a7-741a-455c-b496-9ecbcbb411ef.PNG)
+
+## Team Members
+  1. Titus Varghese
+  2. Aditya Gaurav
